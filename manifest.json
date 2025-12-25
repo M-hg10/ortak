@@ -1,11 +1,11 @@
 {
-    "name": "ortakpromosyon",
-    "short_name": "ortakpromosyon",
+    "name": "Sponsor",
+    "short_name": "Sponsor",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#A6C4D8FF",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Adınızı en kolay duyurmanın adresi.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

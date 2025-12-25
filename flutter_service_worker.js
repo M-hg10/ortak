@@ -76,8 +76,13 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "fe530747ca54d954da6948cf67a3f0a8",
 "index.html": "70317a854cd45a374ed82beeb25f4b8c",
 "/": "70317a854cd45a374ed82beeb25f4b8c",
 "main.dart.js": "9bb60198de10506f9948b5e0ff380ac4",
+<<<<<<< HEAD
 "manifest.json": "c2b303bfc8f4e244e2f3ca91f9807624",
 "version.json": "ce89d19db4d26bc17675597521e8a20e"};
+=======
+"manifest.json": "b11f484a4e191366493270bd0a6e3724",
+"version.json": "7fd4bc9327963243febd2ef3a831aabc"};
+>>>>>>> ac14b6fc9aa6dce8419b0396bb4852448b07a25d
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
